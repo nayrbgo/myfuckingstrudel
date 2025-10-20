@@ -7,14 +7,14 @@
       "filename": "normalcy.aif",
       "title": "Normalcy",
       "type": "audio/aiff",
-      "path": "normalcy.aif",
+      "path": "https://raw.githubusercontent.com/nayrbgo/myfuckingstrudel/main/normalcy.aif",
       "notes": "A serene start before the descent."
     },
     {
       "filename": "world_falling_apart.aif",
       "title": "World Falling Apart",
       "type": "audio/aiff",
-      "path": "world_falling_apart.aif",
+      "path": "https://raw.githubusercontent.com/nayrbgo/myfuckingstrudel/main/world_falling_apart.aif",
       "notes": "The inevitable unraveling — sound as narrative entropy."
     }
   ]
