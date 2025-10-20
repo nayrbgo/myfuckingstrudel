@@ -1,23 +1,9 @@
 {
-  "project": "myfuckingstrudel",
-  "description": "Two-track experimental audio concept by Commander.",
-  "created": "2025-10-19",
-  "files": [
-    {
-      "filename": "normalcy.aif",
-      "title": "Normalcy",
-      "type": "audio/aiff",
-      "path": "https://raw.githubusercontent.com/nayrbgo/myfuckingstrudel/main/normalcy.aif",
-      "duration": null,
-      "notes": "The calm before everything unravels."
-    },
-    {
-      "filename": "world_falling_apart.aif",
-      "title": "World Falling Apart",
-      "type": "audio/aiff",
-      "path": "https://raw.githubusercontent.com/nayrbgo/myfuckingstrudel/main/world_falling_apart.aif",
-      "duration": null,
-      "notes": "The sonic collapse — part two of the strudel cycle."
-    }
-  ]
+  "_base": "https://raw.githubusercontent.com/nayrbgo/myfuckingstrudel/main/",
+  "wt_custom": {
+    "d2": [
+      "normalcy.aif",
+      "world_falling_apart.aif"
+    ]
+  }
 }
