@@ -1,0 +1,21 @@
+{
+  "project": "myfuckingstrudel",
+  "version": "1.0.0",
+  "description": "Audio collection featuring themes of normalcy and collapse.",
+  "files": [
+    {
+      "filename": "normalcy.aif",
+      "title": "Normalcy",
+      "type": "audio/aiff",
+      "path": "normalcy.aif",
+      "notes": "A serene start before the descent."
+    },
+    {
+      "filename": "world_falling_apart.aif",
+      "title": "World Falling Apart",
+      "type": "audio/aiff",
+      "path": "world_falling_apart.aif",
+      "notes": "The inevitable unraveling — sound as narrative entropy."
+    }
+  ]
+}
